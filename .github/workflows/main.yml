@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Set Node Version
+      - name: Set Node Version
         uses: actions/setup-node@v3
         with:
           node-version: 16.x
