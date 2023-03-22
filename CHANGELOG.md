@@ -1,5 +1,11 @@
 # my-components1
 
+## 0.1.4
+
+### Patch Changes
+
+- Scoped package
+
 ## 0.1.3
 
 ### Patch Changes
