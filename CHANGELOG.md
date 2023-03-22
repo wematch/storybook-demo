@@ -1,5 +1,11 @@
 # my-components1
 
+## 0.1.3
+
+### Patch Changes
+
+- removed private tag
+
 ## 0.1.2
 
 ### Patch Changes
