@@ -1,5 +1,12 @@
 # my-components1
 
+## 0.1.5
+
+### Patch Changes
+
+- Finally I think I have package publishing to work.
+- 0870b16: Removed dist
+
 ## 0.1.4
 
 ### Patch Changes
